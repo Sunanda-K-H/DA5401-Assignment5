@@ -68,7 +68,7 @@ It demonstrates how gene-expression features are **standardized**, labels are **
 - Chose **perplexity = 30** for the final plot (balanced local/global emphasis, stable result for `n = 2417`).
  ![partbq2](https://github.com/Sunanda-K-H/DA5401-Assignment5/blob/main/plots/partbq2.png)
 - Produced **Isomap** embedding to compare **local vs. global** structure.
-  [partcq1](https://github.com/Sunanda-K-H/DA5401-Assignment5/blob/main/plots/partcq1.png)
+  ![partcq1](https://github.com/Sunanda-K-H/DA5401-Assignment5/blob/main/plots/partcq1.png)
 
 **Observations**
 - **t-SNE**: All perplexities show a **single mixed cloud**; colors (classes) are **interleaved**.

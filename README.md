@@ -64,11 +64,11 @@ It demonstrates how gene-expression features are **standardized**, labels are **
 
 ## 3) Manifold Visualizations
 - Ran a **t-SNE** sweep over **perplexity** values `{5, 10, 15, 20, 30, 50}` on **scaled features**.
-  []()
+  ![partbq1](./plots/partbq1)
 - Chose **perplexity = 30** for the final plot (balanced local/global emphasis, stable result for `n = 2417`).
-- []()
-- Produced a **PCA (2D)** reference plot and an **Isomap** embedding to compare **local vs. global** structure.
-- []()
+ ![partbq2](./plots/partbq2)
+- Produced **Isomap** embedding to compare **local vs. global** structure.
+  [partcq1](./plots/partcq1)
 
 **Observations**
 - **t-SNE**: All perplexities show a **single mixed cloud**; colors (classes) are **interleaved**.
